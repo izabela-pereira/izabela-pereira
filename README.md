@@ -1,9 +1,8 @@
 Bem-vindo ao meu github! 
 
 <div align="center">
-  <a href="https://github.com/izabela-pereira">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=izabela-pereira&theme=tokyo-night&hide_border=true" />
-  </a>
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=izabela-pereira&theme=tokyo-night&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabela-pereira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div style="display: inline_block"><br>
